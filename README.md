@@ -11,7 +11,3 @@
 
 - index.js
 - discord bot just no commands
-
-## TODO
-
-- everything else exept index.js
