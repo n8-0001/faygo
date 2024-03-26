@@ -9,7 +9,8 @@
 
 ## Whats done?
 
-- index.js (thats it)
+- index.js
+- discord bot just no commands
 
 ## TODO
 
